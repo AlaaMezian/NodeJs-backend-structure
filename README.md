@@ -13,6 +13,6 @@ in this repository i dont aim to provide optimal solution as each project have i
  - Jwt implementation 
  - Enviroment variables to hold configuration values .env file
  - OOP (object oriented programming)
- - i've followed [airbnb](https://github.com/airbnb/javascript) Coding standard with a eslint help to keep thing into prespective.
+ - i've followed [airbnb](https://github.com/airbnb/javascript) Coding standard with a eslint ,help to keep thing into prespective.
 
 please feel free to :star:  happy programming :smiley: :v: 
