@@ -1,4 +1,4 @@
- #Node Js Project Structure
+ # Node Js Project Structure
  
  recently i have started working on a new project and the issue that i faced was spending a lot of time building the project structure based on the best practices ,espicially with java script that have a lot of approaches and bad parts and i couldnt find any place that wrap the best practices into a single project ,so i decided to make it by my own. 
  
