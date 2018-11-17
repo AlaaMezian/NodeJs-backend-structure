@@ -1,0 +1,18 @@
+{
+    "env": {
+        "node": true,
+        "es6": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "rules": {
+        "indent": [
+            2,
+            "tab"
+        ],
+        "no-tabs": 0,
+        "no-param-reassign": 0,
+        "import/no-dynamic-require": 0
+    }
+}
