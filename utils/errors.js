@@ -3,7 +3,6 @@
 const { extend } = require('lodash').extend;
 
 module.exports = {
-	// BASE
 	BadRequest: {
 		error: 'Bad Request',
 		status: 400,
