@@ -10,12 +10,7 @@ const logger = new Logger();
 const requestHandler = new RequestHandler(logger);
 
 class UsersController extends BaseController {
-	constructor() {
-		super();
-		this.modelname = 'Users';
-	}
-
-
+	
 	static async getUserById(req, res) {
 		try {
 			const reqParam = req.params.id;
