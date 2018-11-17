@@ -4,7 +4,7 @@
  
 in this repository i dont aim to provide optimal solution as each project have its own necesitty ,but to help anyone that is starting with a node js project and cant find any inspiration on how to start building the project to take this project as the starting point.
  
- some of the good practices followed in this repository 
+ some of the good practices followed in this repository:
  - Async/Await support 
  - WinstonJs Logger Implementation
  - Error Handling
