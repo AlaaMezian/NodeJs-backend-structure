@@ -13,7 +13,7 @@ class BaseController {
 		this.options = options;
 	}
 
-	/**
+    /**
     * Get an element by it's id .
     *
     *
@@ -34,7 +34,6 @@ class BaseController {
 		return result;
 	}
 
-	// get one by custom options
 	static async getByCustomOptions(req, modelName, options) {
 		let result;
 		try {
