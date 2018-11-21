@@ -18,7 +18,6 @@ module.exports = {
 		dialect: 'postgres',
 		logging: true,
 	},
-	// this need to be adjusted
 	winiston: {
 		logpath: '/iLrnLogs/logs/',
 	},
