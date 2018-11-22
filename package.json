@@ -17,7 +17,6 @@
   },
   "author": "Ala'a Mezian",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/dreamtechers/newlrn-be#readme",
   "dependencies": {
     "async": "^2.6.1",
     "bcrypt": "^3.0.2",
