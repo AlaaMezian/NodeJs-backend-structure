@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/dreamtechers/newlrn-be.git"
+    "url": "git+ssh://github.com/AlaaMezian/NodeJs-backend-structure.git"
   },
   "author": "Ala'a Mezian",
   "license": "ISC",
