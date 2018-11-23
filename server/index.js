@@ -19,9 +19,6 @@ const swagger = require('../utils/swagger');
 
 process.on('SIGINT', () => {
 	logger.log('stopping the server', 'info');
-	if (typeof global.gc === 'function') {
-		global.gc();
-	}
 	process.exit();
 });
 
