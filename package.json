@@ -1,7 +1,7 @@
 {
   "name": "ilrn",
   "version": "1.0.0",
-  "description": "this is the back end apis for ilearn , a microsystem project to help people learn in an easy,fun and a fast way",
+  "description": "this is a back end project structure example",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
