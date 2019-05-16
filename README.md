@@ -9,6 +9,7 @@ in this repository, I don't aim to provide an optimal solution as each project h
  - WinstonJs Logger Implementation
  - Error Handling
  - Sequelize Support 
+ - Basic Joi Validation
  - Open Api Specification implemented through swagger-jsdocs and swagger-ui
  - Jwt implementation 
  - Enviroment variables to hold configuration values .env file
