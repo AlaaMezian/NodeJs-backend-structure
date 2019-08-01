@@ -28,6 +28,7 @@ in this repository, I don't aim to provide an optimal solution as each project h
  then you create a postgres database Named iLrn with the following credintials 
  
  username : postgres 
+ 
  password : password
  
  run the migration using the following command :
