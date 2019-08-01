@@ -25,7 +25,8 @@ in this repository, I don't aim to provide an optimal solution as each project h
  
  delete the existing package.lock.json and run npm install 
  
- then you create a postgres database Named iLrn with the following credintials :
+ then you create a postgres database Named iLrn with the following credintials 
+ 
  username : postgres 
  password : password
  
