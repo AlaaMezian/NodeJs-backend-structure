@@ -18,7 +18,8 @@ in this repository, I don't aim to provide an optimal solution as each project h
  
  # How to start the project 
  
- first you clone the project using the following command 
+ first you clone the project using the following command :
+ 
  git clone https://github.com/AlaaMezian/NodeJs-backend-structure.git
  
  install node version 8.11.0 or use nvm to downgrade your node version 
