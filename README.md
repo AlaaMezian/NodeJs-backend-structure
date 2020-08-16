@@ -36,6 +36,7 @@ in this repository, I don't aim to provide an optimal solution as each project h
  npx sequelize-cli db:migrate
  
  Finally you run npm start 
- 
+  
+Future improvements utilize compenent based structe
 
-please feel free to :star:  happy programming :smiley: :v: 
+please feel free to :star:  happy programming :v: 
