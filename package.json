@@ -30,7 +30,7 @@
     "extend": "^3.0.2",
     "joi": "^14.0.2",
     "jsonwebtoken": "^8.3.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "method-override": "^3.0.0",
     "nodemailer": "^4.6.8",
     "nodemon": "^1.18.4",
