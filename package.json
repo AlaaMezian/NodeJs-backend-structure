@@ -32,7 +32,7 @@
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.13",
     "method-override": "^3.0.0",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.18.4",
     "pg": "^7.5.0",
     "pg-hstore": "^2.3.2",
