@@ -14,7 +14,7 @@ In this repository, I don't aim to provide an optimal solution as each project h
  - Jwt implementation 
  - Enviroment variables to hold configuration values .env file
  - OOP (object oriented programming)
- - i've followed [airbnb](https://github.com/airbnb/javascript) Coding standard with a eslint ,help to keep thing into prespective.
+ - I've followed [airbnb](https://github.com/airbnb/javascript) Coding standard with a eslint ,help to keep thing into prespective.
  
  # How to start the project 
  
@@ -22,17 +22,17 @@ In this repository, I don't aim to provide an optimal solution as each project h
  
  git clone https://github.com/AlaaMezian/NodeJs-backend-structure.git
  
- install node version 8.11.0 or use nvm to downgrade your node version 
+ Install node version 8.11.0 or use nvm to downgrade your node version 
  
  Delete the existing package.lock.json and run npm install 
  
- then you create a postgres database Named iLrn with the following credintials 
+ Then you create a postgres database Named iLrn with the following credintials 
  
  username : postgres 
  
  password : password
  
- run the migration using the following command :
+ Run the migration using the following command :
  npx sequelize-cli db:migrate
  
  Finally you run npm start 
