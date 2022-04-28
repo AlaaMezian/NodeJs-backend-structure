@@ -18,7 +18,7 @@
   "author": "Ala'a Mezian",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "canvas": "^2.0.1",
