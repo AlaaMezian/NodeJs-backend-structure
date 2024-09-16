@@ -25,7 +25,7 @@
     "compression": "^1.7.3",
     "cors": "^2.8.4",
     "dotenv": "^6.1.0",
-    "express": "^4.17.3",
+    "express": "^4.20.0",
     "express-jwt": "^5.3.1",
     "extend": "^3.0.2",
     "joi": "^14.0.2",
